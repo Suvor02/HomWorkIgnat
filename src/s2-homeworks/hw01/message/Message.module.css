@@ -1,31 +1,31 @@
 .message {
-
+    background-color: #00cc22;
 }
 
 .imageAndText {
-
+    background-color: #c73b95;
 }
 
 .imageAndText img {
-
+    width: 80px;
 }
 
 .text {
-
+    /*background-color: #237367;*/
 }
 
 .text:after {
-
+    /*background-color: #ff6527;*/
 }
 
 .name {
-
+    /*background-color: #ff0000;*/
 }
 
 .messageText {
-
+    /*background-color: #d7d5d5;*/
 }
 
 .time {
-
+    /*background-color: #1f2d12;*/
 }
