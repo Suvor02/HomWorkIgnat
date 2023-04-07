@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Suvor02/HomWorkIgnat/static/css/main.004b6ef2.css",
+    "main.js": "/Suvor02/HomWorkIgnat/static/js/main.f59e8d60.js",
+    "static/js/787.66cb4309.chunk.js": "/Suvor02/HomWorkIgnat/static/js/787.66cb4309.chunk.js",
+    "static/media/avatar.png": "/Suvor02/HomWorkIgnat/static/media/avatar.d947cb9d0d13765666b6.png",
+    "index.html": "/Suvor02/HomWorkIgnat/index.html",
+    "main.004b6ef2.css.map": "/Suvor02/HomWorkIgnat/static/css/main.004b6ef2.css.map",
+    "main.f59e8d60.js.map": "/Suvor02/HomWorkIgnat/static/js/main.f59e8d60.js.map",
+    "787.66cb4309.chunk.js.map": "/Suvor02/HomWorkIgnat/static/js/787.66cb4309.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.004b6ef2.css",
+    "static/js/main.f59e8d60.js"
+  ]
+}
