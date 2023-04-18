@@ -1,16 +1,17 @@
 {
   "files": {
-    "main.css": "/HomWorkIgnat/static/css/main.0aca3e1c.css",
-    "main.js": "/HomWorkIgnat/static/js/main.7ac3ea7b.js",
+    "main.css": "/HomWorkIgnat/static/css/main.a8e572c0.css",
+    "main.js": "/HomWorkIgnat/static/js/main.a639936e.js",
     "static/js/787.66cb4309.chunk.js": "/HomWorkIgnat/static/js/787.66cb4309.chunk.js",
     "static/media/avatar.png": "/HomWorkIgnat/static/media/avatar.d947cb9d0d13765666b6.png",
+    "static/media/checked.svg": "/HomWorkIgnat/static/media/checked.b75ca55e8759862b4083.svg",
     "index.html": "/HomWorkIgnat/index.html",
-    "main.0aca3e1c.css.map": "/HomWorkIgnat/static/css/main.0aca3e1c.css.map",
-    "main.7ac3ea7b.js.map": "/HomWorkIgnat/static/js/main.7ac3ea7b.js.map",
+    "main.a8e572c0.css.map": "/HomWorkIgnat/static/css/main.a8e572c0.css.map",
+    "main.a639936e.js.map": "/HomWorkIgnat/static/js/main.a639936e.js.map",
     "787.66cb4309.chunk.js.map": "/HomWorkIgnat/static/js/787.66cb4309.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.0aca3e1c.css",
-    "static/js/main.7ac3ea7b.js"
+    "static/css/main.a8e572c0.css",
+    "static/js/main.a639936e.js"
   ]
 }
