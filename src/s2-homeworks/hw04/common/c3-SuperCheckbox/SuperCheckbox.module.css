@@ -35,10 +35,10 @@
 }
 
 .checkbox:focus {
-    border-color: #0059b3;
+    border-color: #ff0000;
 }
 
 .spanClassName {
     font-family: 'Montserrat', sans-serif;
-    color: #06c;
+    color: #32ff14;
 }
