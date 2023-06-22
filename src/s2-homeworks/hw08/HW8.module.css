@@ -1,23 +1,31 @@
 .item {
+    color: black;
 }
 
 .item:last-of-type {
+    color: blue;
 }
 
 .users {
+    color: blue;
 }
 
 .buttonsContainer {
+    color: blue;
 }
 
 .container {
+    color: blue;
 }
 
 .thead {
+    color: blue;
 }
 
 .nameCol {
+    color: blue;
 }
 
 .ageCol {
+    color: blue;
 }

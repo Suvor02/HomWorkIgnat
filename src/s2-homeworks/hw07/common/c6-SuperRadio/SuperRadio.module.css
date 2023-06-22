@@ -1,15 +1,25 @@
 .radio {
+    background-color: red;
+    color: red;
 }
 
 .radio::before {
+    background-color: #0015ff;
+    color: #0015ff;
 }
 
 
 .radio:checked::before {
+    background-color: #2ca900;
+    color: #2ca900;
 }
 
 .label {
+    /*background-color: #c0c2ff;*/
+    /*color: #c0c2ff;*/
 }
 
 .options {
+    /*background-color: #ff6527;*/
+    /*color: #ff6527;*/
 }

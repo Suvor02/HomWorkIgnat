@@ -2,8 +2,12 @@
 }
 
 .select:focus {
+    /*background-color: #000000;*/
+    /*color: #000000;*/
 }
 
 
 .option:hover {
+    background-color: #bd9898;
+    color: #bd9898;
 }

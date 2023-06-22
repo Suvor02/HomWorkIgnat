@@ -20,9 +20,11 @@ background-color: #00cc22;
 
 .nav {
     background-color: #1f2d12;
+
 }
 
 .nav a {
+    background-color: red;
 }
 
 .nav a:hover {

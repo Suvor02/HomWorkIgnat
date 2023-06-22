@@ -23,6 +23,7 @@ export const Layout: FC<PropsType> = ({ children }) => {
             <div>
                 {/*страницы*/}
                 {children}
+
             </div>
         </>
     )
