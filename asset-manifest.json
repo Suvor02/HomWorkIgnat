@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/HomWorkIgnat/static/css/main.a8a814e2.css",
-    "main.js": "/HomWorkIgnat/static/js/main.98e29b8b.js",
+    "main.js": "/HomWorkIgnat/static/js/main.439cdede.js",
     "static/js/787.66cb4309.chunk.js": "/HomWorkIgnat/static/js/787.66cb4309.chunk.js",
     "static/media/avatar.png": "/HomWorkIgnat/static/media/avatar.d947cb9d0d13765666b6.png",
     "static/media/404.svg": "/HomWorkIgnat/static/media/404.9ec31c0ba8d95b0480272e46af98c955.svg",
     "static/media/closeOutline.svg": "/HomWorkIgnat/static/media/closeOutline.b64ba402fac8a549bc2de97e9cf84a61.svg",
-    "static/media/Loading.svg": "/HomWorkIgnat/static/media/Loading.d3eb07833761f5af3f482596bada6fdf.svg",
+    "static/media/Loading.svg": "/HomWorkIgnat/static/media/Loading.d811ed764870ceae6860b8cceb3d4066.svg",
     "static/media/editIcon.svg": "/HomWorkIgnat/static/media/editIcon.0a0cefd2190b593b4f76bb1a5afe0c1f.svg",
     "static/media/checked.svg": "/HomWorkIgnat/static/media/checked.b75ca55e8759862b4083.svg",
     "index.html": "/HomWorkIgnat/index.html",
     "static/media/burger.svg": "/HomWorkIgnat/static/media/burger.700e416f7bfe3697f96b36c778d25355.svg",
     "main.a8a814e2.css.map": "/HomWorkIgnat/static/css/main.a8a814e2.css.map",
-    "main.98e29b8b.js.map": "/HomWorkIgnat/static/js/main.98e29b8b.js.map",
+    "main.439cdede.js.map": "/HomWorkIgnat/static/js/main.439cdede.js.map",
     "787.66cb4309.chunk.js.map": "/HomWorkIgnat/static/js/787.66cb4309.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a8a814e2.css",
-    "static/js/main.98e29b8b.js"
+    "static/js/main.439cdede.js"
   ]
 }
