@@ -1,3 +1,5 @@
 import s from './Loader.module.css'
-
-export const Loader = () => <div className={s.loader}/>
+import Loading from '../../img/Loading.svg'
+export const Loader = () => <div className={s.loader}>
+    <img src={Loading} alt="крутилка" className={s.loaderSrc}/>
+</div>

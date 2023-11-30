@@ -1,10 +1,15 @@
-import React from 'react'
-import {useDispatch, useSelector} from 'react-redux'
-import {AppStoreType} from './bll/store'
-import {loadingAC} from './bll/loadingReducer'
-import SuperButton from '../hw04/common/c2-SuperButton/SuperButton'
-import s2 from '../../s1-main/App.module.css'
-import {Loader} from './Loader'
+import React from 'react';
+
+import {
+  useDispatch,
+  useSelector,
+} from 'react-redux';
+
+import s2 from '../../s1-main/App.module.css';
+import SuperButton from '../hw04/common/c2-SuperButton/SuperButton';
+import {InitStateType, loadingAC} from './bll/loadingReducer';
+import { AppStoreType } from './bll/store';
+import { Loader } from './Loader';
 
 /*
 * 1 - в файле loadingReducer.ts дописать типы и логику
@@ -15,10 +20,19 @@ import {Loader} from './Loader'
 
 const HW10 = () => {
     // useSelector, useDispatch // пишет студент
-    const isLoading = false
+    const dispatch = useDispatch()
+   
 
-    const setLoading = () => { // пишет студент // показать крутилку на 1,5 секунд
+
+    const isLoading = useSelector<AppStoreType,InitStateType>(store => store.loading)
+    // const isLoading = false
+
+
+    const setLoading = () => {
+        // пишет студент // показать крутилку на 1,5 секунд
         // dispatch
+        dispatch(loadingAC(true))
+setTimeout(() => dispatch(loadingAC(isLoading.isLoading)), 1500)
 
         // setTimeout
     }
@@ -28,7 +42,7 @@ const HW10 = () => {
             <div className={s2.hwTitle}>Homework #10</div>
 
             <div className={s2.hw}>
-                {isLoading ? (
+                {isLoading.isLoading ? (
                     <div id={'hw10-loading'}>
                         <Loader/>
                     </div>

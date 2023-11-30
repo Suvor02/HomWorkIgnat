@@ -1,10 +1,19 @@
 .button {
-    height: 30px;
-    width: 132px;
-    left: 574px;
-    top: 1465px;
-    border-radius: 3px;
-    padding: 5px 24px 5px 24px;
+    /*height: 30px;*/
+    /*width: 132px;*/
+    /*left: 574px;*/
+    /*top: 1465px;*/
+    /*border-radius: 3px;*/
+    /*padding: 5px 24px 5px 24px;*/
+
+    width: 141px;
+height: 30px;
+top: 186px;
+left: 73px;
+padding: 5px 24px 5px 24px;
+border-radius: 3px;
+gap: 10px;
+
 
 }
 
@@ -15,7 +24,7 @@
 
 .secondary {
 
-    background-color: #fffb00;
+    background-color: rgba(0, 102, 204, 1)
 }
 
 .default {

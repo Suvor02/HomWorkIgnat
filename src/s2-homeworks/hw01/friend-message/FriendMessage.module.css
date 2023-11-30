@@ -2,8 +2,12 @@
     background-color: #00cc22;
 }
 
+.myMessage {
+
+}
+
 .friendImageAndText {
-    background-color: #c73b95;
+
 }
 
 .friendImageAndText img {
@@ -11,21 +15,21 @@
 }
 
 .friendText {
-    background-color: #237367;
+    /*background-color: #237367;*/
 }
 
 .friendText:after {
-    background-color: #ff6527;
+    /*background-color: #ff6527;*/
 }
 
 .friendName {
-    background-color: #ff0000;
+    /*background-color: #ff0000;*/
 }
 
 .friendMessageText {
-    background-color: #d7d5d5;
+    /*background-color: #d7d5d5;*/
 }
 
 .friendTime {
-    background-color: #1f2d12;
+    /*background-color: #1f2d12;*/
 }

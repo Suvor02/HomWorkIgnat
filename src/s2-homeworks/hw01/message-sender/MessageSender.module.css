@@ -1,16 +1,8 @@
 .sendForm {
-
+background-color: black;
 }
 
 .textarea {
-
-    width: 80%;
-    height: 100%;
-    left: 700px;
-    top: 4080px;
-    border-radius: 20px;
-
-
 }
 
 .button {
